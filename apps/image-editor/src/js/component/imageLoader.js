@@ -3,7 +3,7 @@ import { componentNames, rejectMessages } from '@/consts';
 
 const imageOption = {
   padding: 0,
-  crossOrigin: 'Anonymous',
+//   crossOrigin: 'Anonymous',
 };
 
 /**
