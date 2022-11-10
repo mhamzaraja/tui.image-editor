@@ -1,5 +1,5 @@
 {
-  "name": "tui-image-editor",
+  "name": "tui-image-editor-clone",
   "private": true,
   "devDependencies": {
     "@babel/core": "^7.15.0",
